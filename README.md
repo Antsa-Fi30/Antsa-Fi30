@@ -10,12 +10,6 @@
 
 <div align=center>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antsa-Fi30&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-<div align=center>
-
   [![](https://visitcount.itsvg.in/api?id=Antsa-Fi30&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
