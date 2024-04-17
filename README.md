@@ -1,6 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&size=30&pause=1000&color=33F77F&background=D537FF00&center=true&vCenter=true&random=false&width=441&height=52&lines=Hi+there!" alt="Typing SVG" /></a>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=25DC4E&center=true&vCenter=true&random=false&width=440&height=60&lines=Hi+there+!+%F0%9F%91%8B" alt="Typing SVG" /></p>
 
-<h1 align=center> Passionate about learning tech and staying current with the tech world. </h1>
+
+
+<h3 align=center> Passionate about learning tech and staying current with the tech world. </h3>
 
 <div align=center>
 
