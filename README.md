@@ -1,6 +1,10 @@
-<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=25DC4E&center=true&vCenter=true&random=false&width=440&height=60&lines=Hi+there+!+%F0%9F%91%8B" alt="Typing SVG" /></p>
+<h1 align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=25DC4E&center=true&vCenter=true&random=false&width=440&height=60&lines=Hi+there+!+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
-
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif"/>
+</p>
 
 <h3 align=center> Passionate about learning tech and staying current with the tech world. </h3>
 
@@ -11,9 +15,9 @@
 </div>
 
 <div align=center>
-
-  [![](https://visitcount.itsvg.in/api?id=Antsa-Fi30&icon=5&color=12)](https://visitcount.itsvg.in)
-
+  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAntsa-Fi30%2FAntsa-Fi30&label=visitor%20count&labelColor=%2337d67a&countColor=%23000000)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAntsa-Fi30%2FAntsa-Fi30)
+ 
 </div>
 
 # 💻 Tech Stack:
