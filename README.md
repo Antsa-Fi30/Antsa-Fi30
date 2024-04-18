@@ -16,7 +16,7 @@
 
 <div align=center>
   
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAntsa-Fi30%2FAntsa-Fi30&label=visitor%20count&labelColor=%2337d67a&countColor=%23000000)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAntsa-Fi30%2FAntsa-Fi30)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAntsa-Fi30%2FAntsa-Fi30&label=visitor%20count&labelColor=%2337d67a&countColor=%23000000)
  
 </div>
 
