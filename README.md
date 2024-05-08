@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif"/>
 </p>
 
-<h3 align=center> Passionate about learning tech and staying current with the tech world. </h3>
+<h3 align=center> Passionate about learning tech. </h3>
 
 <div align=center>
 
