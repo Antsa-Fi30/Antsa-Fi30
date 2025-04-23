@@ -52,5 +52,19 @@
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,java" />
 </div>
+
+</div>
+
+
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
+
+<p align="center"><i>Let’s connect and create something amazing!</i></p>
 
